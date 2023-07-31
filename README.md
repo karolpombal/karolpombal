@@ -2,9 +2,9 @@
 
 Meu nome é Karolyne
 
-Estou estudando no ![Alura](https://www.alura.com.br)
-Estou me desenvolvendo na linguagem javascript
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando no ![Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entra em contato comigo 📧
 
